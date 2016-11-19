@@ -1,0 +1,157 @@
+/* Carbon Racing styles */
+
+html, body {
+	background: url('images/carbon-bg.jpg') #000;
+	background-repeat: repeat-x;
+	color: pink;
+	font-family: arial;
+	font-size: 15px;
+}
+
+.ic {
+	border:0;
+	float:right;
+	background:#fff;
+	color:#f00;
+	width:50%;
+	line-height:10px;
+	font-size:10px;
+	margin:-220% 0 0 0;
+	overflow:hidden;
+	padding:0
+}
+
+h1, h2, h3, h4, h5, h6 {
+	
+	font-family: Arial, Helvetica, sans-serif;
+	;
+	color: #950e5e;
+	font-size: 18px;
+	text-align: center;
+}
+
+#wrap {
+	width: 900px;
+	margin: 0px auto;
+}
+
+#header {
+	width: 100%;
+	height: 400px;
+	background: url('images/racing-header.jpg') #000;
+	background-position: center center;
+	background-repeat: no-repeat;
+	border: 1px solid #888;
+}
+
+#menu {
+	width: 880px;
+	padding: 10px;
+	background: url('images/menu-bg.png');
+	margin-bottom: 20px;
+	font-size: 16px;
+}
+
+#menu ul {
+	list-style-type: none;
+	width: 100%;
+	padding-left: 0px;
+	margin: 0px;
+}
+
+#menu ul li {
+	display: inline;
+	padding-right: 30px;
+}
+
+#menu ul li a:link, #menu ul li a:active, #menu ul li a:visited {
+	color: #BBB;
+	font-weight: bold;
+	text-decoration: pink;
+}
+
+#menu ul li a:hover {
+	color: red;
+}
+
+#content {
+	width: 880px;
+	padding: 10px;
+	background: url('images/content-bg.png');
+	border: 1px solid #888;
+	overflow: auto;
+}
+
+#content-left {
+	width: 600px;
+	float: left;
+}
+
+#content-right {
+	width: 260px;
+	padding-left: 20px;
+	float: right;
+}
+
+#footer {
+	clear: both;
+	width: 880px;
+	text-align: center;
+	color: #950e5e;
+
+}
+ul{
+margin: auto;
+padding-top: 4px;
+}
+
+
+}
+h1{
+	font-family: Arial, Helvetica, sans-serif;
+	color: pink;
+	margin-left: 10px;
+	font-size: 60px;
+	text-align: center;
+}
+h2{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #950e5e;
+	margin-left: 10px;
+	font-size: 18px;
+	text-align: center;
+	border-top: #006680;
+}
+h3{
+	font-family: Arial, Helvetica, sans-serif;
+	;
+	color: #950e5e;
+	font-size: 18px;
+	text-align: center;
+}
+
+}
+
+header{
+	width: 1000px;
+	height: 120 px;
+	background: rgba(255, 255, 255, 10,70);
+}
+nav{
+	width: 1000px;
+	height: 1065px;
+	background: #003f5e;
+	border-radius: 0px 0px 10px 10px;
+	color: #006680;
+}
+
+li{
+	float: left;
+	list-style-type: none;
+	padding: 13px;
+	background: #950f5e;
+	margin: 23px;
+	border-radius: 7px;
+	box-shadow: inset 0px 0px 10px pink;
+	margin-top: 17px;
+}
