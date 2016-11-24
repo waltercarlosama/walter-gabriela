@@ -5,7 +5,7 @@ html, body {
 	background-repeat: repeat-x;
 	color: pink;
 	font-family: arial;
-	font-size: 1115px;
+	font-size: 15px;
 }
 
 .ic {
@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5, h6 {
 #header {
 	width: 100%;
 	height: 400px;
-	background: url('images/agua.jpg') #000;
+	background: url('images/racing-header.jpg') #000;
 	background-position: center center;
 	background-repeat: no-repeat;
 	border: 1px solid #888;
