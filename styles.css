@@ -67,7 +67,7 @@ h1, h2, h3, h4, h5, h6 {
 #menu ul li a:link, #menu ul li a:active, #menu ul li a:visited {
 	color: #AAA;
 	font-weight: bold;
-	text-decoration: pink;
+	text-decoration: green;
 }
 
 #menu ul li a:hover {
