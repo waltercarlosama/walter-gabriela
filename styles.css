@@ -1,7 +1,7 @@
 /* Carbon Racing styles */
 
 html, body {
-	background: url('images/agua.jpg') #000;
+	background: url('images/carbon-bg.jpg') #000;
 	background-repeat: repeat-x;
 	color: pink;
 	font-family: arial;
@@ -65,9 +65,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #menu ul li a:link, #menu ul li a:active, #menu ul li a:visited {
-	color: #AAA;
+	color: #bbb;
 	font-weight: bold;
-	text-decoration: green;
+	text-decoration: pink;
 }
 
 #menu ul li a:hover {
