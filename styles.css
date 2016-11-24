@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #menu ul li a:link, #menu ul li a:active, #menu ul li a:visited {
-	color: #BBB;
+	color: #AAA;
 	font-weight: bold;
 	text-decoration: pink;
 }
@@ -149,7 +149,7 @@ li{
 	float: left;
 	list-style-type: none;
 	padding: 13px;
-	background: #250f5e;
+	background: #950f5e;
 	margin: 23px;
 	border-radius: 7px;
 	box-shadow: inset 0px 0px 10px pink;
